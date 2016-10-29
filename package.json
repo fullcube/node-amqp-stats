@@ -7,13 +7,10 @@
     "url": "https://github.com/timisbusy/node-amqp-stats"
   },
   "main": "index.js",
-  "engines": {
-    "node": "~0.6.0"
-  },
   "license": "MIT",
   "dependencies": {
-    "request": "~2.69.0",
-    "qs": "1.2.1"
+    "qs": "^6.3.0",
+    "request": "^2.76.0"
   },
   "devDependencies": {}
 }
